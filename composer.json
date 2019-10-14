@@ -1,12 +1,12 @@
 {
-    "name": "enniel/laravel-fcm-notification-channel",
+    "name": "yaim/laravel-fcm-notification-channel",
     "type": "library",
     "description": "Firebase Cloud Messages Notification Driver",
     "keywords": [
         "fcm",
         "firebase"
     ],
-    "homepage": "https://github.com/enniel/laravel-fcm-notification-channel",
+    "homepage": "https://github.com/yaim/laravel-fcm-notification-channel",
     "license": "MIT",
     "authors": [{
         "name": "Evgeni Razumov",
